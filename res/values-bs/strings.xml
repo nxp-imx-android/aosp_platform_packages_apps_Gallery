@@ -62,7 +62,7 @@
     <string name="camera_crop" msgid="5584000454518174632">"Izreži"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"Nema aplikacije za dijeljenje slike."</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"Nema aplikacije za dijeljenje videozapisa."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"Nema aplikacije za dijeljenje medijskih datoteka."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Nema aplikacije za dijeljenje medijskih fajlova."</string>
     <string name="video_play" msgid="5287787282508002895">"Reproduciraj"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Slike"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Pozadinska slika"</string>
