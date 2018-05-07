@@ -28,7 +28,7 @@
     <string name="view_label" msgid="4450531507947335704">"عرض الصورة"</string>
     <string name="preferences_label" msgid="5955678162525051163">"إعدادات الكاميرا"</string>
     <string name="wait" msgid="8600187532323801552">"يرجى الانتظار…"</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"يجب تحميل وحدة التخزين المشتركة قبل استخدام الكاميرا."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"يجب تثبيت وحدة التخزين المشتركة قبل استخدام الكاميرا."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"‏يجب إدراج بطاقة SD حتى تتمكن من استخدام الكاميرا."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"وحدة التخزين المشتركة ممتلئة."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"‏بطاقة SD ممتلئة."</string>
