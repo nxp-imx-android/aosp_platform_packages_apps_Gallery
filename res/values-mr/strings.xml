@@ -30,12 +30,12 @@
     <string name="wait" msgid="8600187532323801552">"कृपया प्रतीक्षा करा..."</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"कॅमेरा वापरण्यापूर्वी आपल्याला सामायिक केलेले संचयन माउंट करण्याची आवश्यकता आहे."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"कॅमेरा वापरण्यापूर्वी आपल्‍याला एक SD कार्ड घालण्‍याची आवश्‍यकता आहे."</string>
-    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"आपले सामायिक संचयन पूर्ण भरले."</string>
-    <string name="not_enough_space" product="default" msgid="6655334407957844653">"आपले SD कार्ड पूर्ण भरले."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"तुमचे सामायिक संचयन पूर्ण भरले."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"तुमचे SD कार्ड पूर्ण भरले."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"सामायिक केलेले संचयन तयार करत आहे…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD कार्ड तयार करत आहे..."</string>
     <string name="wallpaper" msgid="140165383777262070">"वॉलपेपर सेट करत आहे…"</string>
-    <string name="savingImage" msgid="3051745378545909260">"चित्र जतन करत आहे..."</string>
+    <string name="savingImage" msgid="3051745378545909260">"चित्र सेव्ह करत आहे..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"कृपया प्रतीक्षा करा..."</string>
     <string name="view" msgid="6277795271119411881">"पहा"</string>
     <string name="details" msgid="8415120088556445230">"तपशील"</string>
@@ -107,7 +107,7 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"कोणताही मीडिया सापडला नाही."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"हटविण्‍यांची पुष्‍टी करा"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"चित्र किंवा व्हिडिओ हटविण्‍यापूर्वी पुष्टी दर्शवा"</string>
-    <string name="no_location_image" msgid="8907867717568887559">"या प्रतिमेमध्ये कोणतीही स्थान माहिती संचयित केलेली नाही."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"या प्रतिमेमध्ये कोणतीही स्थान माहिती स्टोअर केलेली नाही."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"तपशील"</string>
     <string name="details_file_size" msgid="2468878774843246797">"फाईल आकार:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"रिजोल्यूशन:"</string>
