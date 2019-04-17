@@ -15,8 +15,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_SMS" />
 
-    <application android:icon="@drawable/ic_launcher_camera"
-            android:label="@string/camera_label"
+    <application android:icon="@drawable/ic_launcher_gallery"
+            android:label="@string/gallery_label"
             android:taskAffinity="">
         <activity android:name="com.android.camera.GalleryPicker"
                 android:label="@string/gallery_picker_label"
