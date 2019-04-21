@@ -100,7 +100,7 @@
     <item msgid="9006732482485375438">"यादृच्छिक चयन"</item>
   </string-array>
     <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"स्लाइडशो दोहराएं"</string>
-    <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"स्लाइडशो एक से अधिक बार चलाएं"</string>
+    <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"स्लाइडशो एक से ज़्यादा बार चलाएं"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"स्लाइड शफ़ल करें"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"चित्रों को यादृच्छिक क्रम में दिखाएं"</string>
     <string name="camerasettings" msgid="2433519618178453928">"सेटिंग"</string>
@@ -118,7 +118,7 @@
     <string name="details_image_longitude" msgid="3792725587390654278">"GPS देशांतर:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"स्थान:"</string>
     <string name="details_duration" msgid="1028116471387901402">"अवधि:"</string>
-    <string name="details_date_taken" msgid="348356840586463178">"लेने का दिनांक:"</string>
+    <string name="details_date_taken" msgid="348356840586463178">"लेने का तारीख:"</string>
     <string name="details_frame_rate" msgid="122397836963498191">"फ़्रेम दर:"</string>
     <string name="details_bit_rate" msgid="5632311789455402186">"बिट दर:"</string>
     <string name="details_codec" msgid="5580300450432398126">"कोडेक:"</string>
