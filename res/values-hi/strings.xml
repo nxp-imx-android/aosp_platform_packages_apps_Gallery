@@ -149,7 +149,7 @@
     <string name="resume_playing_restart" msgid="5471008499835769292">"फिर से प्रारंभ करें"</string>
     <string name="gadget_title" msgid="259405922673466798">"चित्र फ़्रेम"</string>
     <string name="file_info_title" msgid="1628963357466012538">"फ़ाइल जानकारी:"</string>
-    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"आपके द्वारा रिकॉर्ड किया गया वीडियो, MMS द्वारा भेजने में बहुत बड़ा है. छोटी अवधि वाली क्लिप रिकॉर्ड करने का प्रयास करें."</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"  रिकॉर्ड किया गया वीडियो, MMS द्वारा भेजने में बहुत बड़ा है. छोटी अवधि वाली क्लिप रिकॉर्ड करने का प्रयास करें."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"शेयर करें"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"हटाएं"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"अभी नहीं"</string>
