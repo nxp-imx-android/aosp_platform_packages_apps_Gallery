@@ -28,14 +28,14 @@
     <string name="view_label" msgid="4450531507947335704">"चित्र पहा"</string>
     <string name="preferences_label" msgid="5955678162525051163">"कॅमेरा सेटिंग्ज"</string>
     <string name="wait" msgid="8600187532323801552">"कृपया प्रतीक्षा करा..."</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"कॅमेरा वापरण्यापूर्वी तुम्हाला शेअर केलेले संचयन माउंट करण्याची आवश्यकता आहे."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"कॅमेरा वापरण्यापूर्वी आपल्याला सामायिक केलेले संचयन माउंट करण्याची आवश्यकता आहे."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"कॅमेरा वापरण्यापूर्वी आपल्‍याला एक SD कार्ड घालण्‍याची आवश्‍यकता आहे."</string>
-    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"तुमचे शेअर संचयन पूर्ण भरले."</string>
-    <string name="not_enough_space" product="default" msgid="6655334407957844653">"तुमचे SD कार्ड पूर्ण भरले."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"शेअर केलेले संचयन तयार करत आहे…"</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"आपले सामायिक संचयन पूर्ण भरले."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"आपले SD कार्ड पूर्ण भरले."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"सामायिक केलेले संचयन तयार करत आहे…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD कार्ड तयार करत आहे..."</string>
     <string name="wallpaper" msgid="140165383777262070">"वॉलपेपर सेट करत आहे…"</string>
-    <string name="savingImage" msgid="3051745378545909260">"चित्र सेव्ह करत आहे..."</string>
+    <string name="savingImage" msgid="3051745378545909260">"चित्र जतन करत आहे..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"कृपया प्रतीक्षा करा..."</string>
     <string name="view" msgid="6277795271119411881">"पहा"</string>
     <string name="details" msgid="8415120088556445230">"तपशील"</string>
@@ -54,15 +54,15 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"हा व्हिडिओ हटवायचा?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"या मीडिया फायली हटवायच्या?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"हटवा"</string>
-    <string name="camera_share" msgid="8207701858325694182">"शेअर करा"</string>
+    <string name="camera_share" msgid="8207701858325694182">"सामायिक करा"</string>
     <string name="camera_set" msgid="3422192914806971182">"हे म्हणून सेट करा"</string>
     <string name="camera_play" msgid="8248000517869959980">"प्ले करा"</string>
     <string name="camera_attach" msgid="4048659554893435232">"संलग्न करा"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"रद्द करा"</string>
     <string name="camera_crop" msgid="5584000454518174632">"क्रॉप करा"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र शेअर करण्यासाठी कोणताही अ‍ॅप उपलब्ध नाही."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"व्‍हिडिओ शेअर करण्यासाठी कोणताही अ‍ॅप उपलब्ध नाही."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फाईल(फायली) शेअर करण्यासाठी कोणताही अ‍ॅप उपलब्ध नाही."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र सामायिक करण्यासाठी कोणताही अॅप उपलब्ध नाही."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"व्‍हिडिओ सामायिक करण्यासाठी कोणताही अॅप उपलब्ध नाही."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फाईल(फायली) सामायिक करण्यासाठी कोणताही अॅप उपलब्ध नाही."</string>
     <string name="video_play" msgid="5287787282508002895">"प्ले करा"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"चित्रे"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"वॉलपेपर"</string>
@@ -107,7 +107,7 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"कोणताही मीडिया सापडला नाही."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"हटविण्‍यांची पुष्‍टी करा"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"चित्र किंवा व्हिडिओ हटविण्‍यापूर्वी पुष्टी दर्शवा"</string>
-    <string name="no_location_image" msgid="8907867717568887559">"या प्रतिमेमध्ये कोणतीही स्थान माहिती स्टोअर केलेली नाही."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"या प्रतिमेमध्ये कोणतीही स्थान माहिती संचयित केलेली नाही."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"तपशील"</string>
     <string name="details_file_size" msgid="2468878774843246797">"फाईल आकार:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"रिजोल्यूशन:"</string>
@@ -137,10 +137,10 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"चित्र निवडा"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"गॅलरी"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"व्हिडिओ निवडा"</string>
-    <string name="sendImage" msgid="7279510542799399570">"याद्वारे चित्र शेअर करा"</string>
+    <string name="sendImage" msgid="7279510542799399570">"याद्वारे चित्र सामायिक करा"</string>
     <string name="setImage" msgid="7246975856983303047">"चित्र या रूपात सेट करा"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"याद्वारे व्‍हिडिओ शेअर करा"</string>
-    <string name="send_media_files" msgid="8201083279723850611">"याद्वारे मीडिया फायली शेअर करा"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"याद्वारे व्‍हिडिओ सामायिक करा"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"याद्वारे मीडिया फायली सामायिक करा"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"चित्रपट"</string>
     <string name="loading_video" msgid="4013492720121891585">"व्हिडिओ लोड करत आहे..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"व्हिडिओ पुन्हा सुरु करा"</string>
@@ -149,8 +149,8 @@
     <string name="resume_playing_restart" msgid="5471008499835769292">"येथून प्रारंभ करा"</string>
     <string name="gadget_title" msgid="259405922673466798">"चित्र फ्रेम"</string>
     <string name="file_info_title" msgid="1628963357466012538">"फाईल माहिती:"</string>
-    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"MMS द्वारे पाठविण्यासाठी तुम्ही रेकॉर्ड केलेला व्हिडिओ खूप मोठा आहे. एक लहान लांबीची क्लिप रेकॉर्ड करण्‍याचा प्रयत्न करा."</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"शेअर करा"</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"MMS द्वारे पाठविण्यासाठी आपण रेकॉर्ड केलेला व्हिडिओ खूप मोठा आहे. एक लहान लांबीची क्लिप रेकॉर्ड करण्‍याचा प्रयत्न करा."</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"सामायिक करा"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"हटवा"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"रद्द करा"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"इमेज हटवित आहे..."</string>
